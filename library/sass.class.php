@@ -44,7 +44,7 @@ class Sass
 
     public function __set($itemname,$itemvalue){
 
-            $this->items[$itemname]=$itenvalue;
+            $this->items[$itemname]=$itemvalue;
 
     }
 
