@@ -17,7 +17,7 @@ class Sass
     private static $variables=null;
     private static $collection=null;
     private $name =null;
-    private $items=null;
+    private $item4s=null;
 
 
     public function __construct($name){
